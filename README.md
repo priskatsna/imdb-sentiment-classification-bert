@@ -3,6 +3,10 @@
 ## Project Summary
 This project aims to classify movie reviews as **positive** or **negative** using a fine-tuned **BERT model**. By leveraging transfer learning and pretrained language models, we demonstrate how modern NLP techniques can effectively perform sentiment analysis on real-world data.
 
+## 📁 Dataset
+
+This project uses the [IMDb Movie Reviews Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) available on Kaggle.
+
 ### ⭐ Situation  
 With the massive growth of online reviews and user-generated content, identifying the **sentiment** behind a review is crucial for businesses, media platforms, and content moderation. The IMDb dataset provides 50,000 movie reviews with sentiment labels, making it a great benchmark for evaluating sentiment classification models.
 
